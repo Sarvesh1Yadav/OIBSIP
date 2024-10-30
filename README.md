@@ -9,6 +9,7 @@ Objective: To build a model that classifies emails as spam or not spam using Nat
 Tools: Python, Scikit-Learn, NLTK
 Dataset: Processed email data with labels for spam and non-spam messages.
 Outcome: Achieved high accuracy in detecting spam emails through feature extraction and machine learning classification.
+
 Unemployment Analysis:
 
 Objective: Analyzing unemployment data to identify trends, correlations, and patterns that impact joblessness.
